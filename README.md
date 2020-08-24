@@ -3,4 +3,4 @@
 This is a simple python script to read out the A/B (7 Bw/ 8 Br pins) on the Zonneplan One / SAJ Sununo inverter.
 The output is used to report to PVOutput.org.
 
-
+Used bits from https://github.com/rogersia/Solis-4G
